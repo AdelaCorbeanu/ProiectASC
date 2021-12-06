@@ -9,8 +9,7 @@ Sintaxa: python decrypt.py output cheie input_recuperat.txt
 
 Resurse utilizate:
 
-https://en.wikipedia.org/wiki/XOR_cipher
-
+https://en.wikipedia.org/wiki/XOR_cipher 
 https://www.w3resource.com/python/python-bytes.php
 
 https://www.codegrepper.com/code-examples/python/python+byte+to+char
