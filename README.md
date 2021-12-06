@@ -16,6 +16,7 @@ https://text-compare.com/
 Partea a doua a proiectului:  
 **!Cheia este "cheiaCHEILOR12"**  
 1) gasirea cheii folosind atat input-ul, cat si output-ul  
+Cunoastem faptul ca daca a ^ b = c, atunci a ^ c = b.  
 Folosind programul findKey.py am aplicat operatia XOR intre elementele din input si cele din output pentru primele 49 de elemente. Afisand rezultatul, obtinem: cheiaCHEILOR12cheiaCHEILOR12cheiaCHEILOR12cheiaCH
 
 Deoarece se observa cu usurinta ca sirul care se repeta la afisare este "cheiaCHEILOR12" nu mai sunt necesare verificari suplimentare, acesta fiind parola.
