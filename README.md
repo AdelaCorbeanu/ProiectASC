@@ -16,7 +16,8 @@ https://text-compare.com/
 
 
 Partea a doua a proiectului:
-**!Cheia este "cheiaCHEILOR12" **
+
+**!Cheia este "cheiaCHEILOR12"**
 1) gasirea cheii folosind atat input-ul, cat si output-ul
 Folosind programul findKey.py am aplicat operatia XOR intre elementele din input si cele din output pentru primele 49 de elemente. Afisand rezultatul, obtinem: cheiaCHEILOR12cheiaCHEILOR12cheiaCHEILOR12cheiaCH
 
