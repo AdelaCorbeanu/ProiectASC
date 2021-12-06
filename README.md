@@ -8,11 +8,17 @@ Fisierul decrypt.py decripteaza textul din fisierul output prin metoda XOR, folo
 Sintaxa: python decrypt.py output cheie input_recuperat.txt
 
 Resurse utilizate:
+
 https://en.wikipedia.org/wiki/XOR_cipher
+
 https://www.w3resource.com/python/python-bytes.php
+
 https://www.codegrepper.com/code-examples/python/python+byte+to+char
+
 https://pteo.paranoiaworks.mobi/diacriticsremover/
+
 https://text-compare.com/
+
 
 
 Partea a doua a proiectului:
