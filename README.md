@@ -1,4 +1,4 @@
-# ProiectASC
+# ProiectASC echipa Grovezavesti Street  
 Fisierul encrypt.py cripteaza textul din fisierul input.txt prin criptare XOR, folosind o cheie primita in linia de comanda si returneaza rezultatul in fisierul output.  
 Sintaxa: python encrypt.py input.txt cheie output
 
